@@ -1,2 +1,1 @@
 This is my Git version control practical.
-This change is made in feature branch.
