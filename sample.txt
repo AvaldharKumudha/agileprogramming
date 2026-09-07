@@ -1,1 +1,1 @@
-This is my Git version control practical.
+Practical Git demonstration.
